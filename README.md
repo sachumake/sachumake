@@ -12,7 +12,6 @@
    <a href="https://www.instagram.com/sachinv.erma/">
     <img src="https://img.shields.io/badge/instagram-sachinv.erma-red">
    </a>
-  <span> <img src="https://komarev.com/ghpvc/?username=sachuverma" alt="sachuverma"></span>
 </p>
 
 <br />
